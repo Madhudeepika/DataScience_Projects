@@ -1,14 +1,14 @@
 # DataScience_Projects
 
-Project 01 : Medical Inventory Optimization & Forecasting
+# Project 01 : Medical Inventory Optimization & Forecasting
 
 
-Project 02 : Liver Tumor classification using Deep Learning
+# Project 02 : Liver Tumor classification using Deep Learning
 
 
 #Project Title: Medical Inventory Optimization & Forecasting
 
-Project Description:
+*Project Description:*
 This project focuses on addressing the notable surge in bounce rates within the healthcare system, adversely affecting patient satisfaction. The aim is to optimize medical inventory levels to minimize bounce rates while keeping inventory costs at a minimum.
 
 Key Features:

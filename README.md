@@ -11,7 +11,7 @@
 *Project Description:*
 This project focuses on addressing the notable surge in bounce rates within the healthcare system, adversely affecting patient satisfaction. The aim is to optimize medical inventory levels to minimize bounce rates while keeping inventory costs at a minimum.
 
-Key Features:
+_Key Features:_
 
 Data Preprocessing: Explore and preprocess historical data to ensure accuracy in forecasting.
 

@@ -174,7 +174,9 @@ The forecasted values provide promising insights into the effectiveness of the i
 <li>Response Handling: Send classification results back to the user interface for display.</li>
 </ul>
 
-<img src="165_project_architecture[1].png"alt="Final Output"/>
+<h4>Final Output</h4>
+ <img src="Deployment.png"alt="Finaloutput"/>
+
 <h4>Conclusion</h4>
 <h5>Summary of Project Outcomes and impact on Business objectives</h5> 
 

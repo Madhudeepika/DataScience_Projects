@@ -117,7 +117,7 @@ The forecasted values provide promising insights into the effectiveness of the i
 </ul>
 
 <h4>Project Architecture</h4>
-![image](https://github.com/user-attachments/assets/103990a2-5b4c-4fff-a909-e0484dd31e04)
+ <img src="165_project_architecture[1].png"alt="Project Architecture"/>
 
 <h4>Model Building:</h4>
 
@@ -174,6 +174,7 @@ The forecasted values provide promising insights into the effectiveness of the i
 <li>Response Handling: Send classification results back to the user interface for display.</li>
 </ul>
 
+<img src="165_project_architecture[1].png"alt="Final Output"/>
 <h4>Conclusion</h4>
 <h5>Summary of Project Outcomes and impact on Business objectives</h5> 
 

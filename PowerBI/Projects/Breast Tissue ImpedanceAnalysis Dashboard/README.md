@@ -35,5 +35,36 @@ This project explores breast tissue classification using impedance measurements.
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 📌 Dataset Details
+
+- **Source:** Kaggle  
+- **Records:** 106  
+- **Features:** 9 numerical impedance measurements + 1 tissue label  
+- **Class Labels:** Different tissue types
+
+---
+
+## 🚀 Future Work
+
+- Extend with Python-based classification models
+- Apply dimensionality reduction (PCA) on features
+- Build interactive Power BI apps for clinical diagnostics
+
+---
+
+## 🙋‍♀️ Author
+
+Oruganti Amsu Madhu Deepika 
+Biotech Grad|Data Science Enthisiast|
+🌐 [GitHub](https://github.com/Madhudeepika)
+
+---
+
+## 💬 Questions or Suggestions?
+
+Feel free to raise an issue or connect via GitHub!
+
 

@@ -55,6 +55,12 @@ This project explores breast tissue classification using impedance measurements.
 
 ---
 
+
+## Screen Shots
+
+![image](https://github.com/user-attachments/assets/75a46822-836a-4235-b522-fcfab762dfab)
+
+
 ## 🙋‍♀️ Author
 
 Oruganti Amsu Madhu Deepika 

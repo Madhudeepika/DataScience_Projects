@@ -1,0 +1,15 @@
+-- Create a table
+CREATE TABLE Students (
+    ID INTEGER PRIMARY KEY,
+    Name TEXT NOT NULL,
+    Marks INTEGER
+);
+
+-- Insert data
+INSERT INTO Students (ID, Name, Marks)
+VALUES (1, 'Madhu', 85),
+       (2, 'Deepika', 92),
+       (3, 'Lakshmi', 78);
+
+-- Query top scorer
+SELECT * FROM Students ORDER BY Marks DESC LIMIT 1;

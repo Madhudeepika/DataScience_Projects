@@ -1,1 +1,12 @@
+CREATE OR REPLACE FUNCTION calculate_fine(due_date DATE, return_date DATE)
+RETURNS NUMERIC AS $$
+DECLARE
+    fine NUMERIC := 0;
+BEGIN
+    IF return_date > due_date THEN
+        fine := (return_date - due_date) * 5;
+    END IF;
+    RETURN fine;
+END;
+$$ LANGUAGE plpgsql;
 

@@ -10,3 +10,11 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+
+-- Output View 
+CREATE VIEW test_case_results AS
+SELECT 
+    id, due_date, return_date,
+    calculate_fine(due_date, return_date) AS fine
+FROM test_cases;
+
